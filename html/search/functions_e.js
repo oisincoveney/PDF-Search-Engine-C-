@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['setdata',['setData',['../class_node.html#af23871ec3bf265343bbe05eea61bea1d',1,'Node']]],
+  ['setdocs',['setDocs',['../class_word.html#abdca24231f47e6bfbd4361d6cbf56f41',1,'Word']]],
+  ['setindexdirectory',['setIndexDirectory',['../class_index_interface.html#a49dba2685145cdb866ed85645a99d82f',1,'IndexInterface']]],
+  ['setnumfiles',['setNumFiles',['../class_parser.html#a71d7b9eeadb6253f5a2ac90e7051db37',1,'Parser']]],
+  ['setnumpages',['setNumPages',['../class_parser.html#a8b38d2fd9fde99e32c14aca77e08d682',1,'Parser']]],
+  ['setnumwords',['setNumWords',['../class_parser.html#a174c661a7baf6cc3aff68a61cf9dc0c0',1,'Parser']]],
+  ['settotalfrequency',['setTotalFrequency',['../class_word.html#a0c367f923a885048a849ea3b7b8665ac',1,'Word']]],
+  ['setword',['setWord',['../class_word.html#a3a6aef623cb1e1ecf2aed019c151cc1b',1,'Word']]],
+  ['special',['special',['../namespace_porter2_stemmer_1_1internal.html#a7c20680dfe258c8050c8225d97b2e160',1,'Porter2Stemmer::internal']]],
+  ['stem',['stem',['../namespace_porter2_stemmer.html#ad07c4652a1144329db4bdfb6ce640d80',1,'Porter2Stemmer']]],
+  ['step0',['step0',['../namespace_porter2_stemmer_1_1internal.html#ae689551ae90968445d4ab1a60ffc805c',1,'Porter2Stemmer::internal']]],
+  ['step1a',['step1A',['../namespace_porter2_stemmer_1_1internal.html#af0acc908e606cd6e2917bf2ed31d5fe7',1,'Porter2Stemmer::internal']]],
+  ['step1b',['step1B',['../namespace_porter2_stemmer_1_1internal.html#af4cffda4b443475c766407d60eac03dc',1,'Porter2Stemmer::internal']]],
+  ['step1c',['step1C',['../namespace_porter2_stemmer_1_1internal.html#abc52eb93a0acc99087ca62bb2a4e647e',1,'Porter2Stemmer::internal']]],
+  ['step2',['step2',['../namespace_porter2_stemmer_1_1internal.html#a8bde57d3eeee683082f53cd7a9a0a2f8',1,'Porter2Stemmer::internal']]],
+  ['step3',['step3',['../namespace_porter2_stemmer_1_1internal.html#a8ea5872c398ea38fb5ff359879613a4e',1,'Porter2Stemmer::internal']]],
+  ['step4',['step4',['../namespace_porter2_stemmer_1_1internal.html#a46c7932444166421508feab27b1addfa',1,'Porter2Stemmer::internal']]],
+  ['step5',['step5',['../namespace_porter2_stemmer_1_1internal.html#ad53abf614a24cba562dba83857f42091',1,'Porter2Stemmer::internal']]]
+];
